@@ -44,9 +44,9 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1786}
+      Script: {instanceID: 1776}
     - Class: 114
-      Script: {instanceID: 3304}
+      Script: {instanceID: 3294}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -517,4 +517,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/FirstPerson.unity
-  playerPath: C:/Users/jacob/Downloads/candle-simulator-main(1)/candle-simulator-main/candle-simulator.exe
+  playerPath: C:/Users/jacob/Desktop/Classes/CompGraphics/project/candle-simulator/candle-simulator.exe
