@@ -712,7 +712,7 @@ PrefabInstance:
     - target: {fileID: 7773810594509094047, guid: 8131a844885d9334f872835128829384,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.9446886
+      value: -2.926
       objectReference: {fileID: 0}
     - target: {fileID: 7773810594509094047, guid: 8131a844885d9334f872835128829384,
         type: 3}
@@ -962,6 +962,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!4 &1444390091 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7773810594509094047, guid: 8131a844885d9334f872835128829384,
+    type: 3}
+  m_PrefabInstance: {fileID: 1024167920}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1596275703
 GameObject:
   m_ObjectHideFlags: 0
@@ -1046,6 +1052,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 1596275704}
   speed: 12
+--- !u!1 &1838533104 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1950602138877448, guid: 00284cf2de272b74d864cac5ee59c480,
+    type: 3}
+  m_PrefabInstance: {fileID: 587015478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1838533109
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838533104}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: a28068c718c3c144c90420aa97cf5f61, type: 3}
 --- !u!1 &2009032024
 GameObject:
   m_ObjectHideFlags: 0
@@ -1132,13 +1158,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2009032024}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.98, y: 4.32, z: 8.747}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: 0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.01765573, y: 0.645, z: 0.0025000572}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 1444390091}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2122855137
 GameObject:
