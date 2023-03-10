@@ -57,6 +57,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
   scriptHashData:
   - hash:
       serializedVersion: 2
@@ -517,4 +521,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/FirstPerson.unity
-  playerPath: C:/Users/jacob/Desktop/Classes/CompGraphics/project/candle-simulator/candle-simulator.exe
+  playerPath: C:/Users/jacob/OneDrive/Desktop/Unity/candle-simulator/candle-simulator.exe
